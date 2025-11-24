@@ -58,13 +58,35 @@ Because I love you, and everything that Feels Like you.`,
   'Anshing'
 ]
 const cuteLines = [
-  'Hello Twin',
-  'I LOVE YOUUUU',
-  'Being with you has been the greatest thing that has ever happened to me.',
-  "It's been like a journey of a lifetime. With you, I have seen so much and learned so much. I've had so many experiences that I couldn't even imagine before.",
-  "I love YOU—not just because you are the prettiest girl in the world or that you are a smarty smart pants, but more than that, I love you because of the way you care about me like no one ever has. I love the way you smile at me, the way you are a nerdy weeb (though maybe not the Genshin part, but hey, at least you're not half-assing being a nerd).",
-  'You are like the whole package. I get pretty, smart, autistic, occasionally funny, delicious cook, hardworker—all in one amazing person.',
+  `Hello Twin
+I LOVE YOUUUU
+Being with you has been the greatest thing that has ever happened to me.`,
+
+  `It's been like a journey of a lifetime, with you I have seen so much I have learned so much, I had so many experiences that I couldn't even imagine before.`,
+  
+  `I love YOU not just because you're the prettiest girl in the world, or because you're a smarty smart pant, but because of the way you care for me in a way no one ever has.
+I love the way you smile at me, the way you're a cute nerdy weeb (even if the Genshin part is questionable, but hey, at least you commit to being a nerd properly.)`,
+
+  `You're the whole package for me.
+Pretty, smart, autistic, occasionally funny, W ass cook, a ridiculously hard worker, an absolute unit of a Valorant player, surprisingly good at rivels, and my partner in crime.`,
+
+  `Memories with you have been like a fever dream from a year ago that is coming true, going to eat sushi at a place with a rotating belt (Typa shi I saw in sinchan). The crunchy rolls were lwk pretty good now that I am thinking about it sitting here at 2 am. But still the one place I will mention a little later is better Teehee.`,
+
+  `Going a whole 7 hours away for a hackathon, and with your fucking parents driving us like hellooo???? 😭 but that hackathon was lwk chopped asf cause, we should have absolutely cooked a 36 hour hackathon. But ay next time we get to go to a 36 hour one we are gonna cook up. Trust.`,
+
+  `Going on our little drives skipping classes, stressing over Autowisp and CAVS, eating so much food, our pizza and Dubai chocolate runs that we have went on lately, and of course the Sals runs while sitting next to you eating the loaded fries, I love every moment and I cant wait to go on many many more.`,
+
+  `Being with you I feels so complete like if I had a pet snail, I'd name it lightning, or if we went to vegas instead of going out to party we would sit in an Airbnb just looking at each other and doing stuff and having a blast-idek what I am saying anymore but you get the point.`,
+
+  `You make me complete like the sals chicken elevates the fires, like an Odin while I play valorant, like that one shaded room with a fan running in the summer, like a good sandwich while sitting and enjoying a view, you are the better part of me and with out you I would be so sad so yea :).`,
+
+  `Anyways I hope you liked this teehee.
+I suck at writing letters and stuff so whoopsies but it kinda cool I was cooking with the idea TEEHEE.`,
+
   '❤️',
+  
+  `I slipped it in BTW TEEHEEE`,
+  
   'Forever yours,',
   'Anshing'
 ]
